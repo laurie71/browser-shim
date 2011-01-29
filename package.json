@@ -1,0 +1,16 @@
+{
+  "name": "browser-shim",
+  "description": "Easy sharing of scripts between NodeJS and the browser.",
+  "version": "0.1.0",
+  "homepage": "http://github.com/laurie71/browser-shim/",
+  "author": "Laurie Harper (http://laurie71.github.com/)",
+  "directories": {
+    "lib": "lib/browser-shim"
+  },
+  "scripts": {
+    "test": "expresso -I lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
